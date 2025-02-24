@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-02-24T00:48:20.749Z",
+  "created_by": "saamturner",
+  "title": "Theoretical Theatre",
+  "slug": "theoretical-theatre",
+  "updated_at": "2025-02-24T00:48:20.749Z",
+  "updated_by": "saamturner",
+  "parent": "aff4b3d2-e209-431b-9110-b336c93e4298",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "7352f635-1a7f-4b65-a59d-db162899c444"
+  }
+}
